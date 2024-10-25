@@ -2,7 +2,7 @@
 👀 We’re interested in **developing innovative solutions that enhance user experiences and streamline processes through our flagship project, Q-Size App.**  
 🌱 Our team is currently developing ** a sizing app for Shopify.**  
 💞️ We’re looking to collaborate on **open-source contributions, partnerships, and feedback to improve Q-Size App and its impact on users.**  
-📫 How to reach us **info@qturn.dk or visit our website at qturn.dk.**  
+📫 How to reach us **info@qturn.dk or visit our website at www.qturn.dk.**  
 😄 Pronouns: **we/us**  
 ⚡ Fun fact: **At Q-turn, we’re passionate about helping SMEs utilizing technology to create solutions!**  
 <!---
